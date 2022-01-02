@@ -32,8 +32,13 @@ As a DevOps Engineer my focus is on the Azure and AWS cloud platform. I wear man
 - CMS: WordPress / Magento 1.x-2.x  
 - CRM: Microsoft Dynamics 365 / Salesforce  
 
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white"> [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Meghna-DAS/)
-
+## :tada: Achievements
+<table>
+  <td align="center">
+      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.achievements.compact.svg">
+    <img width="900" height="1" alt="">
+  </td>
+</table>
 
 ## ⚙ Statistics and Languages 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=faraday23&show_icons=true&theme=tokyonight"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraday23&layout=compact&theme=tokyonight"> <br>
