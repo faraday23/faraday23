@@ -1,6 +1,3 @@
-/*
-[Github banner (3)](https://user-images.githubusercontent.com/55181652/92362483-b0205800-f10d-11ea-975d-0b2b17815e42.gif)<a href="https://github.com/Meghna-DAS/Meghna-# //DAS/blob/master/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
-*/
 
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -39,7 +36,7 @@ As a DevOps Engineer my focus is on the Azure and AWS cloud platform. I wear man
 
 
 ## ⚙ Statistics and Languages 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Meghna-DAS&show_icons=true&theme=tokyonight"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghna-DAS&layout=compact&theme=tokyonight"> <br>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=faraday23&show_icons=true&theme=tokyonight"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraday23&layout=compact&theme=tokyonight"> <br>
 
 ## 📫 How to reach me:
 <p align='left'>
@@ -50,6 +47,6 @@ As a DevOps Engineer my focus is on the Azure and AWS cloud platform. I wear man
 
 ## ❤ Views and Followers
 <a href="https://github.com/faraday23/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Meghna-DAS">
+    <img src="https://komarev.com/ghpvc/?username=faraday23">
 </a>
-<a href="https://github.com/faraday23?tab=followers"><img src="https://img.shields.io/github/followers/Meghna-DAS?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/faraday23?tab=followers"><img src="https://img.shields.io/github/followers/faraday23?label=Followers&style=social" alt="GitHub Badge"></a>
