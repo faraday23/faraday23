@@ -6,7 +6,7 @@ As a DevOps Engineer my focus is on the Azure and AWS cloud platform. I wear man
 - 🔭 I’m currently working on Terraform, IaC, Kubernetes, Docker
 - 🌱 I’m currently learning Kubernetes, Serverless, FaaS
 - 👯 I’m looking to collaborate on ...Open source projects
-- 📃 My blogging website...https://expertcloudengineer.com/
+- 📃 [My Linkedin](https://www.linkedin.com/in/russellbagby)
 - 💬 Ask me about ...Anything
 - ⚡ Fun fact: ..I am a workaholic :-P <br>
 
