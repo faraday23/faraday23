@@ -1,6 +1,8 @@
 
-# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+# Hello World! 
+<p>
+  <img src="https://i.kym-cdn.com/photos/images/newsfeed/001/501/702/c94.gif">
+</p>
 As a DevOps Engineer my focus is on the Azure and AWS cloud platform. I wear many hats and play various roles in a fast-paced enterprise environment on the DevOps team. My day-to-day involves hands on experience building CI/CD Pipelines using Github Actions. Versioning infrastructure safely and efficiently using Terraform and Ansible. Automating deployment, scaling, and operations of application containers across clusters of hosts using Kubernetes and Docker. Participating in the design, road map, and support of applications in the cloud mainly with Azure and AWS. Collaborating with Enterprise Architecture, Engineering, and Security to ensure customer facing digital solutions meet the overall enterprise cloud guidelines. Debugging and resolving complex issues in our cloud environments for business-critical applications. Developing Infrastructure as Code (IaC) using terraform.
 
 - 🔭 I’m currently working on Terraform, IaC, Kubernetes, Docker
