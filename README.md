@@ -1,5 +1,5 @@
 
-# Hello World! 
+# Wake up Samurai, we've got code to write! 😎
 <p>
   <img src="https://i.kym-cdn.com/photos/images/newsfeed/001/501/702/c94.gif">
 </p>
