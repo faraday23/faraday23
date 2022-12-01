@@ -10,7 +10,7 @@ As a DevOps Engineer my focus is on the Azure and AWS cloud platform. I wear man
 - 👯 I’m looking to collaborate on ...Open source projects
 - 📃 [My Linkedin](https://www.linkedin.com/in/russellbagby)
 - 💬 Ask me about ...Anything
-- ⚡ Fun fact: I've been to 5 out of 8 wonders of the world! <br>
+- ⚡ Fun fact: I've been to 5 out of 7 Wonders of the Ancient World! <br>
 
 
 ## 🚀 Skills
