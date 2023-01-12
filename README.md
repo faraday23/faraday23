@@ -1,9 +1,14 @@
 
-# Wake up Samurai, we've got code to write! 😎
+## Wake up Samurai, we've got code to write! 😎
 <p>
   <img src="https://i.kym-cdn.com/photos/images/newsfeed/001/501/702/c94.gif">
 </p>
-As a DevOps Engineer my focus is on the Azure and AWS cloud platform. I wear many hats and play various roles in a fast-paced enterprise environment on the DevOps team. My day-to-day involves hands on experience building CI/CD Pipelines using Github Actions. Versioning infrastructure safely and efficiently using Terraform and Ansible. Automating deployment, scaling, and operations of application containers across clusters of hosts using Kubernetes and Docker. Participating in the design, road map, and support of applications in the cloud mainly with Azure and AWS. Collaborating with Enterprise Architecture, Engineering, and Security to ensure customer facing digital solutions meet the overall enterprise cloud guidelines. Debugging and resolving complex issues in our cloud environments for business-critical applications. Developing Infrastructure as Code (IaC) using terraform.
+<br>
+<br>
+As a top-notch DevOps Engineer, I'm like a cloud ninja, fiercely battling the forces of Azure and AWS. I got so many hats, I make the whole DevOps team look like they're going to a fancy dress party. But don't be fooled by my many roles, I'm always hands on, building pipelines like a boss using Github Actions. I'm all about versioning infrastructure in a safe and efficient manner with Terraform. And let me tell you, I can automate deployment, scaling, and operations of those pesky little container thingies like a pro, with Kubernetes and Docker.
+I ain't just a one trick pony though, I'm in on the design, the road map, and the support of those fancy digital solutions that keep our customers happy using mainly Azure and AWS. and when it comes to enterprise architecture, engineering, and security, I'm like a superhero sidekick. But the best part of my day, is when I get to debug and resolve those complex issues in our cloud environment for those business-critical applications. And with passion and dedication, there's no telling what a DevOps team can accomplish!
+<br>
+<br>
 
 - 🔭 I’m currently working on Terraform, IaC, Kubernetes, Docker
 - 🌱 I’m currently learning Kubernetes, Serverless, FaaS
