@@ -17,6 +17,13 @@ I ain't just a one trick pony though, I'm in on the design, the road map, and th
 - 💬 Ask me about ...Anything
 - ⚡ Fun fact: I've been to 5 out of 7 Wonders of the Ancient World! <br>
 
+## 🏆 Achievements
+ <br />
+ <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=abhinandanraj&column=8&theme=darkhub"/>
+  </a>
+ </p>
 
 ## 🚀 Skills
 - Cloud Computing: Microsoft Azure / Amazon Web Services / Google Cloud Platform  
@@ -39,13 +46,7 @@ I ain't just a one trick pony though, I'm in on the design, the road map, and th
 - CMS: WordPress / Magento 1.x-2.x  
 - CRM: Microsoft Dynamics 365 / Salesforce  
 
-## :tada: Achievements
-<table>
-  <td align="center">
-      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.achievements.compact.svg">
-    <img width="900" height="1" alt="">
-  </td>
-</table>
+
 
 ## ⚙ Statistics and Languages 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=faraday23&show_icons=true&theme=tokyonight"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraday23&layout=compact&theme=tokyonight"> <br>
