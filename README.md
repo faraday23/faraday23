@@ -21,7 +21,7 @@ I ain't just a one trick pony though, I'm in on the design, the road map, and th
  <br />
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=abhinandanraj&column=8&theme=darkhub"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=liggitt&column=8&theme=darkhub"/>
   </a>
  </p>
 
@@ -49,7 +49,7 @@ I ain't just a one trick pony though, I'm in on the design, the road map, and th
 
 
 ## ⚙ Statistics and Languages 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=faraday23&show_icons=true&theme=tokyonight"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraday23&layout=compact&theme=tokyonight"> <br>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=liggitt&show_icons=true&theme=tokyonight"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liggitt&layout=compact&theme=tokyonight"> <br>
 
 ## 📫 How to reach me:
 <p align='left'>
