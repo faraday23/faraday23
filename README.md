@@ -49,8 +49,12 @@ I ain't just a one trick pony though, I'm in on the design, the road map, and th
 
 
 ## ⚙ Statistics and Languages 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=faraday23&show_icons=true&theme=tokyonight"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraday23&layout=compact&theme=tokyonight"> <br>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=faraday23&show_icons=true&theme=tokyonight"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraday23&layout=compact&theme=tokyonight">
+<a href="https://github-readme-streak-stats.herokuapp.com">
+<img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=faraday23&theme=tokyonight&hide_border=false"/>
+</a>
 
+    
 ## 📫 How to reach me:
 <p align='left'>
   
